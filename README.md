@@ -24,5 +24,5 @@
 # Pinecone
 # Flask
 # Python
-#HTML
-#CSS
+# HTML
+# CSS
